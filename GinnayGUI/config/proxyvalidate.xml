@@ -1,0 +1,4 @@
+<?xml version="1.0" standalone="yes"?>
+<ProxyValidateConditions>
+  <ProxyValidateCondition URL="http://www.baidu.com" Keywords="百度" ForbiddenKeywords="" />
+</ProxyValidateConditions>

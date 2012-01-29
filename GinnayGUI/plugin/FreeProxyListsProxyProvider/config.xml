@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FreeProxyListsProxyProviderInfos>
+	<Cookie>
+		<![CDATA[key=key; hl=zh; pv=10; userno=20120129-004138; from=link; refdomain=www.freeproxylists.net;]]>
+	</Cookie>
+	<Pattern>
+		<![CDATA[IPDecode\("(?<ip>.*)"\).+?(?<port>\d{1,5})</td>]]>
+	</Pattern>
+	<PortWhiteList></PortWhiteList>
+	<URLS>
+		<URL><![CDATA[http://www.freeproxylists.net/zh/?c=CN&page=1]]></URL>
+		<URL><![CDATA[http://www.freeproxylists.net/zh/?c=CN&page=2]]></URL>
+		<URL><![CDATA[http://www.freeproxylists.net/zh/?c=CN&page=3]]></URL>
+		<URL><![CDATA[http://www.freeproxylists.net/zh/?c=CN&page=4]]></URL>
+		<URL><![CDATA[http://www.freeproxylists.net/zh/?c=CN&page=5]]></URL>
+		<URL><![CDATA[http://www.freeproxylists.net/zh/?c=CN&page=6]]></URL>
+	</URLS>
+</FreeProxyListsProxyProviderInfos>

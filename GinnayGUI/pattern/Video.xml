@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<URLPatterns>
+  <URLPattern Enabled="True" URL="http://v\.youku\.com/player/getPlayList.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="Mainland China" />
+  <URLPattern Enabled="True" URL="http://hot\.vrs\.sohu\.com/vrs_flash\.action.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="&quot;data&quot;:null" />
+  <URLPattern Enabled="True" URL="http://v2\.tudou\.com/v.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="ip is forbidden" />
+  <URLPattern Enabled="True" URL="http://data\.video\.qiyi\.com/v.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="OVERSEA" />
+  <URLPattern Enabled="True" URL="http://vxml\.56\.com.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="access denied" />
+  <URLPattern Enabled="True" URL="http://msx\.app\.joy\.cn/service\.php.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://v\.iask\.com/v_play\.php.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="error" />
+  <URLPattern Enabled="True" URL="http://video1\.qq\.com/v1/minidump/userip.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="&quot;acs&quot;:&quot;false&quot;" />
+  <URLPattern Enabled="True" URL="http://vv\.video\.qq\.com/getclist.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="ip is not authorized" />
+  <URLPattern Enabled="True" URL="http://ip\.kankan\.xunlei\.com.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="G_MOVIE_OVERSEA = 0," />
+</URLPatterns>

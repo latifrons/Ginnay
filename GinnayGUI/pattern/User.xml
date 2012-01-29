@@ -1,0 +1,4 @@
+<?xml version="1.0" standalone="yes"?>
+<URLPatterns>
+  <URLPattern Enabled="True" URL="http://www\.ppurl\.com.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+</URLPatterns>
