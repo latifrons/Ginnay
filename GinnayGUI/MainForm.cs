@@ -443,7 +443,7 @@ namespace GinnayGUI
 				DialogResult dr = MessageBox.Show("New Version " + vers + " Available. See?","Update Available for Ginnay",MessageBoxButtons.YesNo);
 				if (dr == DialogResult.Yes)
 				{
-					System.Diagnostics.Process.Start("http://ginnay.codeplex.com");
+					System.Diagnostics.Process.Start("https://github.com/latifrons/Ginnay/wiki");
 				}
 			}
 

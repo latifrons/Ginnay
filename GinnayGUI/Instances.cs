@@ -16,8 +16,8 @@ namespace GinnayGUI
 {
 	public class Instances
 	{
-		public const int VER = 111217;
-		public const string VERS = "0.2";
+		public const int VER = 120129;
+		public const string VERS = "0.22";
 
 
 		private string proxyInfoPath = "config/proxyinfo.xml";
@@ -366,7 +366,7 @@ namespace GinnayGUI
 		{
 			try
 			{
-				HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://ginnay.codeplex.com");
+				HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://github.com/latifrons/Ginnay/wiki/Versions");
 				HttpWebResponse response = (HttpWebResponse)request.GetResponse();
 				string html;
 				HtmlHelper.GetHtml(response, out html);
