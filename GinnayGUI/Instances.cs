@@ -16,8 +16,8 @@ namespace GinnayGUI
 {
 	public class Instances
 	{
-		public const int VER = 120129;
-		public const string VERS = "0.22";
+		public const int VER = 120820;
+		public const string VERS = "0.23";
 
 
 		private string proxyInfoPath = "config/proxyinfo.xml";

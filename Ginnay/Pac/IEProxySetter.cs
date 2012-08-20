@@ -240,7 +240,7 @@ namespace Ginnay.Pac
 
 			// Allocate a block of memory of the options.
 			System.IntPtr buffer = Marshal.AllocCoTaskMem(Marshal.SizeOf(Options[0])
-			 + Marshal.SizeOf(Options[1]) + Marshal.SizeOf(Options[2]));
+			 + Marshal.SizeOf(Options[1]) + Marshal.SizeOf(Options[2]) + Marshal.SizeOf(Options[3]));
 
 			System.IntPtr current = (System.IntPtr)buffer;
 
@@ -263,7 +263,7 @@ namespace Ginnay.Pac
 			Request.OptionError = 0;
 			int size = Marshal.SizeOf(Request);
 
-			// Query internet options.
+			// Query internet options.(buggy0
 			bool result = InternetQueryOptionList(IntPtr.Zero,
 			 INTERNET_OPTION.INTERNET_OPTION_PER_CONNECTION_OPTION,
 			 ref Request, ref size);

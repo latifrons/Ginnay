@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <ProxyProviders>
 	<ProxyProvider Enabled="True" ClassName="Ginnay.ProxySpider.ProxyProviders.WebPageProxyProvider" FileName="" />
-	<ProxyProvider Enabled="True" ClassName="Ginnay.ProxySpider.ProxyProviders.FreeProxyListsProxyProvider" FileName="" />
+<!--	<ProxyProvider Enabled="True" ClassName="Ginnay.ProxySpider.ProxyProviders.FreeProxyListsProxyProvider" FileName="" />-->
 </ProxyProviders>

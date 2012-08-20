@@ -868,7 +868,7 @@ namespace GinnayGUI
 		{
 			try
 			{
-				System.Diagnostics.Process.Start("http://ginnay.codeplex.com");
+				System.Diagnostics.Process.Start("https://github.com/latifrons/Ginnay");
 			}catch (Exception)
 			{
 				MessageBox.Show("You do not have a browser????");

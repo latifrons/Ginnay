@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebPageProxyProviderInfos>
-	<WebPageProxyProviderInfo URL="http://proxy.ipcn.org/proxylist.html" 
-							  Pattern="(?&lt;ip&gt;\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\s*:\s*(?&lt;port&gt;\d{1,5})" 
+	<WebPageProxyProviderInfo URL="http://proxy.ipcn.org/proxylist.html"
+							  Pattern="(?&lt;ip&gt;\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\s*:\s*(?&lt;port&gt;\d{1,5})"
 							  PortWhiteList=""/>
-<!--	<WebPageProxyProviderInfo URL="http://proxy.ipcn.org/proxylist2.html"-->
-<!--							  Pattern="(?&lt;ip&gt;\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\s*:\s*(?&lt;port&gt;\d{1,5})"-->
-<!--							  PortWhiteList=""/>-->
-<!--	IP123.232.172.194:8909-->
 	<WebPageProxyProviderInfo URL="http://www.18daili.com/"
 							  Pattern="(?&lt;ip&gt;\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\s*:\s*(?&lt;port&gt;\d{1,5})"
+							  PortWhiteList=""/>
+	<WebPageProxyProviderInfo URL="http://www.proxy360.cn/Region/China"
+							  Pattern="(?&lt;ip&gt;\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\s*?&lt;/span&gt;\s*.*\s*(?&lt;port&gt;\d{1,5})\s*&lt;/span&gt;"
 							  PortWhiteList=""/>
 </WebPageProxyProviderInfos>

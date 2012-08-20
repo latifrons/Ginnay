@@ -67,7 +67,7 @@
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(139, 25);
 			this.label1.TabIndex = 1;
-			this.label1.Text = "Ginnay v0.22";
+			this.label1.Text = "Ginnay v0.23";
 			this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
 			// 
 			// tableLayoutPanel1
