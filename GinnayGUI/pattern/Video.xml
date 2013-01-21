@@ -10,4 +10,32 @@
   <URLPattern Enabled="True" URL="http://video1\.qq\.com/v1/minidump/userip.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="&quot;acs&quot;:&quot;false&quot;" />
   <URLPattern Enabled="True" URL="http://vv\.video\.qq\.com/getclist.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="ip is not authorized" />
   <URLPattern Enabled="True" URL="http://ip\.kankan\.xunlei\.com.*" NeedValidation="True" NecessaryKeywords="" ForbiddenKeywords="G_MOVIE_OVERSEA = 0," />
+  <URLPattern Enabled="True" URL="http://v\.youku\.com/player/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://api\.3g\.youku\.com/layout.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://api\.youku\.com/player/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://v2\.tudou\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://s\.plcloud\.music\.qq\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://hot\.vrs\.sohu\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://live\.tv\.sohu\.com/live/player.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://hot\.vrs\.letv\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://data\.video\.qiyi\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://220\.181\.61\.229/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://61\.135\.183\.46/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://220\.181\.118\.181/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://vv\.video\.qq\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://geo\.js\.kankan\.xunlei\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://web-play\.pptv\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://web-play\.pplive\.cn/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://dyn\.ugc\.pps\.tv/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://inner\.kandian\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://ipservice\.163\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://zb\.s\.qq\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://ip\.kankan\.xunlei\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://music\.sina\.com\.cn/yueku/intro/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://v\.iask\.com/v_play\.php.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://v\.iask\.com/v_play_ipad\.cx\.php.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://.*\.dpool\.sina\.com\.cn/iplookup.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://edge\.v\.iask\.com/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://www\.yinyuetai\.com/insite/.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
+  <URLPattern Enabled="True" URL="http://vdn\.apps\.cntv\.cn/api/getHttpVideoInfo\.do.*" NeedValidation="False" NecessaryKeywords="" ForbiddenKeywords="" />
 </URLPatterns>
